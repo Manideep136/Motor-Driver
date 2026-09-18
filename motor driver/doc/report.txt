@@ -1,0 +1,22 @@
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-F_Cu.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-B_Cu.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-F_Paste.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-B_Paste.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-F_Mask.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-B_Mask.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\motor driver\Gerber\motor driver-job.gbrjob'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-F_Cu.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-B_Cu.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-F_Paste.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-B_Paste.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-F_Mask.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-B_Mask.gbr'.
+Plotted to 'D:\kicad\motor driver\Gerber\motor driver-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\motor driver\Gerber\motor driver-job.gbrjob'.
+Info: Done.
+Info: Done.
